@@ -1,1 +1,4 @@
-
+http://www.htmlite.com/mysql002a.php
+https://www.postgresql.org/docs/9.2/sql-keywords-appendix.html
+https://docs.microsoft.com/fr-fr/sql/t-sql/language-elements/reserved-keywords-transact-sql?view=sql-server-2017
+https://sql.sh
