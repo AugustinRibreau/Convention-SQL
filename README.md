@@ -65,7 +65,7 @@ INNER JOIN `f_topic` ON `t_id` = `p_fk_topic_id`
 ```
 
 ## Auteur
-- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
+- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustinribreau.com" target="_blank">augustinribreau.com</a>
 
 Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-SQL/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
 
